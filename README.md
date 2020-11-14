@@ -1,5 +1,4 @@
-# ML_Project1
-Microsoft Malware detection
+# Microsoft Malware detection
 
 
 1.1. Problem Statement 
